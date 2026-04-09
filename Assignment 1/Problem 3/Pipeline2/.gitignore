@@ -15,5 +15,3 @@ dist/
 .DS_Store
 Thumbs.db
 Indian_Digits_Train/
-PracticalGroundTruth500_Unlabeled/
-PracticalGroundTruth500/
