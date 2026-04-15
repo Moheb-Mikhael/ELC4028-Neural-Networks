@@ -1,0 +1,44 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Misc TeX tools
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lol
+*.nav
+*.snm
+*.vrb
+*.thm
+*.dvi
+
+# Auto-generated logs
+missfont.log
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
