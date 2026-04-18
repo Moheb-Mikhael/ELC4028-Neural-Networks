@@ -1,0 +1,6 @@
+Accuracy: 0.224
+Total rows: 500
+Rows with known true label: 500
+Rows used for evaluation: 500
+Correct: 112
+Invalid predictions: 0
